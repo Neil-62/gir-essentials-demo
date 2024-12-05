@@ -1,1 +1,1 @@
-# gir-essentials-demo
+# git-essentials-demo
